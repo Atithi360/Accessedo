@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115355926074",
+    "project_id": "accassado",
+    "storage_bucket": "accassado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115355926074:android:5ad9f0fe86cff57f4c3f03",
+        "android_client_info": {
+          "package_name": "com.example.accassado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115355926074-0tctpkp5a403ib7tiu6pb5dgt1br5rpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANvJsQXxjhOSrQQNzd0BxNLqsXSpfIklM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115355926074-0tctpkp5a403ib7tiu6pb5dgt1br5rpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
